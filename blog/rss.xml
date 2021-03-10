@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>AJR-NEWS 総合サポート Blog</title>
+        <link>https://support.ajr-news.com/blog</link>
+        <description>AJR-NEWS 総合サポート Blog</description>
+        <lastBuildDate>Sun, 28 Feb 2021 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[テスト]]></title>
+            <link>https://support.ajr-news.com/blog/test</link>
+            <guid>test</guid>
+            <pubDate>Sun, 28 Feb 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[こちらでは、主に技術面での改善点などについてお話させていただく予定です。]]></description>
+        </item>
+    </channel>
+</rss>
